@@ -20,14 +20,21 @@
 #photo {
     width:200px;
     height:200px;
+    margin-bottom: 1rem;
 }
 
 .header-heading {
     padding-top:10px;
 }
-
 .banner-section {
-    margin-top: 2.5rem;
-    width: 100%;
-    height: 400px;
+    margin-top:2.5rem;
+    background-image: url("../../assets/images/man-g8d75c5340_1920.jpg");
+}
+
+.banner-about-section {
+    height:400px;
+    padding-top:150px;
+    color: #fff;
+    font-size:1.25em;
+    margin: 0 auto;
 }
