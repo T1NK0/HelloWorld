@@ -3,14 +3,11 @@
 }
 
 #banner {
-    border-top: gray 1px solid;
-    border-bottom: gray 1px solid;
     padding: 2em 0;
     width: 100%;
 }
 
 .card {
-    width: 18rem;
     margin-top: 2.5rem;
     margin-left: 1rem;
     margin-right: 1rem;
