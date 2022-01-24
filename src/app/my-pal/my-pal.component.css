@@ -1,0 +1,36 @@
+.main {
+    width: 100%;
+}
+
+#banner {
+    border-top: gray 1px solid;
+    border-bottom: gray 1px solid;
+    padding: 2em 0;
+    width: 100%;
+}
+
+.card {
+    width: 18rem;
+    margin-top: 2.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.heading-photo-container {
+    width: 100%;
+}
+
+#photo {
+    width:200px;
+    height:200px;
+}
+
+.header-heading {
+    padding-top:10px;
+}
+
+.banner-section {
+    margin-top: 2.5rem;
+    width: 100%;
+    height: 400px;
+}
